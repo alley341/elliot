@@ -15,9 +15,12 @@ See requirements.txt
 
 ## Installation
 git clone https://github.com/username/elliot.git
+
 cd elliot
+
 chmod +x elliot.sh
 
 ## Usage
 ./elliot.sh -h
+
 ./elliot.sh -d example.com
